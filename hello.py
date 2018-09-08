@@ -1,0 +1,2 @@
+name = 'Ansatasia'
+print (name)
